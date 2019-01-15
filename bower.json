@@ -1,0 +1,8 @@
+{
+  "name": "Csharp_RandomPasscode",
+  "private": true,
+  "dependencies": {
+    "skeleton" : "2.0.4"
+    
+  }
+}
